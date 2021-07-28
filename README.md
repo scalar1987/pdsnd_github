@@ -13,4 +13,7 @@ This is the project on using Git and GitHub to show my capability for handling a
 There are a couple of files used in this project. One of them is the bikeshare.py file created for the previous project along with the ignored(or hidden) data files including chicago.csv, new_york_city.csv and washington.csv.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+There are some links that I have visited a lot while taking the course. The list of the links is as follows.
+Git Documentation Reference : https://git-scm.com/docs
+Git Documentation Book : https://git-scm.com/book/en/v2
+Git Cheat Sheets : https://training.github.com/
