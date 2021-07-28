@@ -6,8 +6,8 @@ I have created this project and README file on 28 July 2021.
 ### Project Title
 Post your Work on GitHub
 
-### Description
-Describe what your project is about and what it does
+### Project Description
+This is the project on using Git and GitHub to show my capability for handling a version control system.
 
 ### Files used
 Include the files used
